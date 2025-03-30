@@ -1,3 +1,5 @@
 data
 split_data
+external_data
+intermediate_data
 .ipynb_checkpoints
