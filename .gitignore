@@ -3,4 +3,5 @@ split_data
 external_data
 intermediate_data
 models
+result
 .ipynb_checkpoints
